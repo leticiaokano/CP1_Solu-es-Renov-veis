@@ -16,7 +16,7 @@ O objetivo é relacionar cada etapa da análise ao contexto dos dados e interpre
 -  **Orange Data Mining**
 -  **Jupyter Notebook**
 
-## 📚 Desenvolvimento
+## Desenvolvimento
 
 Todos os exercícios propostos foram organizados em um único **Notebook Python (`.ipynb`)**, conforme as instruções da atividade.
 
